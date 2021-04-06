@@ -4,5 +4,6 @@ Using API’s, GraphQL , React.Js to create a search bar that finds opportunitie
 Deployed Website
 https://laughing-villani-74d089.netlify.app/
 
-![Screenshot (336)](https://user-images.githubusercontent.com/69858342/113786307-7fada480-9756-11eb-8297-e748ec51375a.png)
+![Screenshot (337)](https://user-images.githubusercontent.com/69858342/113786525-f21e8480-9756-11eb-8dad-9c34f62273fb.png)
+
 
