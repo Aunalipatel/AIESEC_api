@@ -1,5 +1,5 @@
 •	React job opportunities search through AIESEC API
-Using API’s, GraphQL , React.Js to create a search bar that finds opportunities by returning values through the API
+Using API’s, GraphQL , React.Js to create a site that finds opportunities by returning values through the API
 
 Deployed Website
 https://laughing-villani-74d089.netlify.app/
